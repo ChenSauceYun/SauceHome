@@ -41,7 +41,7 @@
 
 
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br></div></div><p><img src="https://api.minblue.cc" alt=""></p>
-<h3 id="捐赠" tabindex="-1"><a class="header-anchor" href="#捐赠" aria-hidden="true">#</a> 捐赠</h3>
+<h3 id="捐赠我们" tabindex="-1"><a class="header-anchor" href="#捐赠我们" aria-hidden="true">#</a> 捐赠我们</h3>
 <p>如果你觉得此网站对你有所帮助同时你钱包宽裕不妨<RouterLink to="/jz/">捐赠</RouterLink>一下！
 我会非常感谢你！</p>
 </template>

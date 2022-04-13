@@ -38,8 +38,8 @@ module.exports = {
       {
       text: '运营部',
             children:[
-                     {text:'首页', link: 'https://chensauce.cn'},// 以 ‘/’结束，默认读取 README.md
-                     {text:'其它链接', link: 'https://www.baidu.com/'} // 外部链接
+                     {text:'运营部', link: 'https://chensauce.cn'},// 以 ‘/’结束，默认读取 README.md
+                     {text:'谷歌镜', link: 'https://google.minblue.cc/'} // 外部链接
                   ]
           
                 },
@@ -79,6 +79,15 @@ module.exports = {
                   children: ['/doc/README.md', ],
                 },
               ],
+
+
+              '/frame/': [
+                {
+                  text: '框架',
+                  children: ['/frame/README.md', ],
+                },
+              ],
+
 
               '/sauce/': [
                 {
