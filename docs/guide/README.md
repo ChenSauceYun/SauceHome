@@ -4,5 +4,10 @@
 - [基础简介](../guide/brief.md)
 - [整体框架](../guide/frame.md) 
 - [域名公示](./domain.md)  
-- [项目文档](/docs/guide/doc.md)  
-- [关于陈酱](/docs/guide/about.md)
+- [项目文档](/guide/doc.md)  
+- [关于陈酱](/guide/about.md)
+# 随机视频
+----
+![](https://api.minblue.cc/mp4)
+
+------
