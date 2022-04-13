@@ -1,0 +1,1 @@
+const e={key:"v-fc036150",path:"/guide/about.html",title:"\u5173\u4E8E\u9648\u9171",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649834284e3,contributors:[{name:"ChenSauce",email:"chensauce@icloud.com",commits:2}]},filePathRelative:"guide/about.md"};export{e as data};
