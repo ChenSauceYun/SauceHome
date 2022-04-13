@@ -2,8 +2,6 @@
 
 尊敬的各位同学们欢迎访问CHENSUACE 简称：陈酱，个人介绍请前往[主页](https://chensauce.com)了解！
 
-----
-![](https://api.minblue.cc/mp4)
 
 ------
 目前我们已经开通并运行的站点有：<br>

@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-34d2cb8d",
   "path": "/guide/doc.html",
-  "title": "网站文档",
+  "title": "项目文档",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",

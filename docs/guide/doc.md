@@ -1,4 +1,4 @@
-# 网站文档
+# 项目文档
 
 欢迎访问运营者站点，全区域运营人员陈酱！本站点将详细整理和介绍全域站点的搭建！
 
@@ -48,8 +48,12 @@
 - 官方网站：[https://hexo.io](https://hexo.io)
 - GitHub：[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 
+# 联系我们
+CHENSAUCER目前仍处于较为初始的阶段，对于体验优化我们仍然有很多进行中和计划中的提升。
 
+敬请期待的同时，也欢迎[反馈](https://support.qq.com/product/400099)
 
+邮箱：chensauce@126.com
 
 
 

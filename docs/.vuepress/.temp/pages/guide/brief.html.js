@@ -20,8 +20,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "学习中的 陈酱",
-      "slug": "学习中的-陈酱",
+      "title": "学习中的陈酱",
+      "slug": "学习中的陈酱",
       "children": []
     }
   ],

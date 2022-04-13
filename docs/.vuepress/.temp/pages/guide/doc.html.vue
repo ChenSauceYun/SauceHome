@@ -1,4 +1,4 @@
-<template><h1 id="网站文档" tabindex="-1"><a class="header-anchor" href="#网站文档" aria-hidden="true">#</a> 网站文档</h1>
+<template><h1 id="项目文档" tabindex="-1"><a class="header-anchor" href="#项目文档" aria-hidden="true">#</a> 项目文档</h1>
 <p>欢迎访问运营者站点，全区域运营人员陈酱！本站点将详细整理和介绍全域站点的搭建！</p>
 <h2 id="镜像站" tabindex="-1"><a class="header-anchor" href="#镜像站" aria-hidden="true">#</a> 镜像站</h2>
 <ul>
@@ -56,4 +56,8 @@
 <li>官方网站：<a href="https://hexo.io" target="_blank" rel="noopener noreferrer">https://hexo.io<ExternalLinkIcon/></a></li>
 <li>GitHub：<a href="https://github.com/hexojs/hexo" target="_blank" rel="noopener noreferrer">https://github.com/hexojs/hexo<ExternalLinkIcon/></a></li>
 </ul>
+<h1 id="联系我们" tabindex="-1"><a class="header-anchor" href="#联系我们" aria-hidden="true">#</a> 联系我们</h1>
+<p>CHENSAUCER目前仍处于较为初始的阶段，对于体验优化我们仍然有很多进行中和计划中的提升。</p>
+<p>敬请期待的同时，也欢迎<a href="https://support.qq.com/product/400099" target="_blank" rel="noopener noreferrer">反馈<ExternalLinkIcon/></a></p>
+<p>邮箱：chensauce@126.com</p>
 </template>

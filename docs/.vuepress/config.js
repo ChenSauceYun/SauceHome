@@ -70,7 +70,7 @@ module.exports = {
               '/guide/': [
                 {
                   text: '简介',
-                  children: ['/guide/README.md', '/guide/brief.md', '/guide/domain.md', '/guide/frame.md', '/guide/doc.md', '/guide/about.md'],
+                  children: ['/guide/README.md', '/guide/brief.md', '/guide/dn.md', '/guide/frame.md', '/guide/doc.md', '/guide/about.md'],
                 },
               ],
               '/doc/': [

@@ -56,4 +56,8 @@
 <li>官方网站：<a href="https://hexo.io" target="_blank" rel="noopener noreferrer">https://hexo.io<ExternalLinkIcon/></a></li>
 <li>GitHub：<a href="https://github.com/hexojs/hexo" target="_blank" rel="noopener noreferrer">https://github.com/hexojs/hexo<ExternalLinkIcon/></a></li>
 </ul>
+<h2 id="联系我们" tabindex="-1"><a class="header-anchor" href="#联系我们" aria-hidden="true">#</a> 联系我们</h2>
+<p>CHENSAUCER目前仍处于较为初始的阶段，对于体验优化我们仍然有很多进行中和计划中的提升。</p>
+<p>敬请期待的同时，也欢迎<a href="https://support.qq.com/product/400099" target="_blank" rel="noopener noreferrer">反馈<ExternalLinkIcon/></a></p>
+<p>邮箱：chensauce@126.com</p>
 </template>

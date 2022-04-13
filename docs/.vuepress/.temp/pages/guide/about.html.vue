@@ -1,8 +1,6 @@
 <template><h1 id="关于陈酱" tabindex="-1"><a class="header-anchor" href="#关于陈酱" aria-hidden="true">#</a> 关于陈酱</h1>
 <p>尊敬的各位同学们欢迎访问CHENSUACE 简称：陈酱，个人介绍请前往<a href="https://chensauce.com" target="_blank" rel="noopener noreferrer">主页<ExternalLinkIcon/></a>了解！</p>
 <hr>
-<p><img src="https://api.minblue.cc/mp4" alt=""></p>
-<hr>
 <p>目前我们已经开通并运行的站点有：<br>
 <code>博客</code> <code>主页</code> <code>镜像站</code> <code>视频站</code>  <code>图床</code> <code>云相册</code> <code>导航</code> <code>监测站</code>  <code>API</code> <code>运营部</code></p>
 <p>目前 除视频站均<code>运行正常</code>，视频站目前为止 <code>废弃当中</code> 运营部将不会再进行相关维护及运营！<br>
