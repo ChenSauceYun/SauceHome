@@ -22,7 +22,7 @@ export const themeData = {
       "children": [
         {
           "text": "首页",
-          "link": "/sauce/"
+          "link": "https://sauclug.cn"
         },
         {
           "text": "简介",
