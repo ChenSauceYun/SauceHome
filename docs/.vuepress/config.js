@@ -29,7 +29,7 @@ module.exports = {
       {
       text: 'SAUCE',
            children:[
-                    {text:'首页', link: '/sauce/'},// 以 ‘/’结束，默认读取 README.md
+                    {text:'首页', link: 'https://sauclug.cn'},// 以 ‘/’结束，默认读取 README.md
                     {text:'简介', link: '/sauce/jj.md'} // 外部链接
                 ]
 
