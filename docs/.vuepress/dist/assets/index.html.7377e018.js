@@ -1,0 +1,1 @@
+const t={key:"v-59597946",path:"/sauclug/",title:"\u56E2\u4F53\u9996\u9875",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"sauclug/README.md"};export{t as data};

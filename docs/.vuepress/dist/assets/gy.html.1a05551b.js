@@ -1,0 +1,1 @@
+const t={key:"v-10242721",path:"/sauclug/gy.html",title:"\u5173\u4E8E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"sauclug/gy.md"};export{t as data};

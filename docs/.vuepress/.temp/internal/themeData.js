@@ -18,7 +18,7 @@ export const themeData = {
       "link": "/jz/"
     },
     {
-      "text": "SAUCE",
+      "text": "团体",
       "children": [
         {
           "text": "首页",
@@ -26,7 +26,7 @@ export const themeData = {
         },
         {
           "text": "简介",
-          "link": "/sauce/jj.md"
+          "link": "/sauclug/jj.md"
         }
       ]
     },
@@ -86,13 +86,13 @@ export const themeData = {
         ]
       }
     ],
-    "/sauce/": [
+    "/sauclug/": [
       {
-        "text": "SAUCE",
+        "text": "团体",
         "children": [
-          "/sauce/README.md",
-          "/sauce/jj.md",
-          "/sauce/gy.md"
+          "/sauclug/README.md",
+          "/sauclug/jj.md",
+          "/sauclug/gy.md"
         ]
       }
     ]
@@ -123,17 +123,4 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateThemeData) {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ themeData }) => {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  })
 }

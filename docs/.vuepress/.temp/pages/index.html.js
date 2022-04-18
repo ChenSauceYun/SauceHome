@@ -37,27 +37,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1649834284000,
+    "updatedTime": 1650260809000,
     "contributors": [
       {
         "name": "ChenSauce",
         "email": "chensauce@icloud.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },
   "filePathRelative": "README.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

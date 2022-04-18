@@ -27,10 +27,10 @@ module.exports = {
 
       // NavbarGroup
       {
-      text: 'SAUCE',
+      text: '团体',
            children:[
                     {text:'首页', link: 'https://sauclug.cn'},// 以 ‘/’结束，默认读取 README.md
-                    {text:'简介', link: '/sauce/jj.md'} // 外部链接
+                    {text:'简介', link: '/sauclug/jj.md'} // 外部链接
                 ]
 
               },
@@ -89,10 +89,10 @@ module.exports = {
               ],
 
 
-              '/sauce/': [
+              '/sauclug/': [
                 {
-                  text: 'SAUCE',
-                  children: ['/sauce/README.md', '/sauce/jj.md', '/sauce/gy.md' ],
+                  text: '团体',
+                  children: ['/sauclug/README.md', '/sauclug/jj.md', '/sauclug/gy.md' ],
                 },
               ],
 
