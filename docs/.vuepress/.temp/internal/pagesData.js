@@ -3,8 +3,6 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/Github/sauce/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /doc/
   "v-7445f070": () => import(/* webpackChunkName: "v-7445f070" */"D:/Github/sauce/docs/.vuepress/.temp/pages/doc/index.html.js").then(({ data }) => data),
-  // path: /frame/
-  "v-7e1f989b": () => import(/* webpackChunkName: "v-7e1f989b" */"D:/Github/sauce/docs/.vuepress/.temp/pages/frame/index.html.js").then(({ data }) => data),
   // path: /guide/about.html
   "v-fc036150": () => import(/* webpackChunkName: "v-fc036150" */"D:/Github/sauce/docs/.vuepress/.temp/pages/guide/about.html.js").then(({ data }) => data),
   // path: /guide/brief.html
@@ -17,6 +15,8 @@ export const pagesData = {
   "v-1c997578": () => import(/* webpackChunkName: "v-1c997578" */"D:/Github/sauce/docs/.vuepress/.temp/pages/guide/frame.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/Github/sauce/docs/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
+  // path: /frame/
+  "v-7e1f989b": () => import(/* webpackChunkName: "v-7e1f989b" */"D:/Github/sauce/docs/.vuepress/.temp/pages/frame/index.html.js").then(({ data }) => data),
   // path: /jz/
   "v-2d0a9b46": () => import(/* webpackChunkName: "v-2d0a9b46" */"D:/Github/sauce/docs/.vuepress/.temp/pages/jz/index.html.js").then(({ data }) => data),
   // path: /sauce/gy.html

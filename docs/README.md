@@ -15,5 +15,5 @@ features:
   details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
 - title: 关于域名
   details: 自豪的启用了中国国家级顶级域名 CN 。
-footer: Copyright © 2022 Chen Sauce 
+footer: Copyright © 2022 CHSAS 本站支持IPV6访问 
 ---

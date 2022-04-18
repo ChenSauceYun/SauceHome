@@ -32,7 +32,7 @@ export const data = {
         "details": "自豪的启用了中国国家级顶级域名 CN 。"
       }
     ],
-    "footer": "Copyright © 2022 Chen Sauce"
+    "footer": "Copyright © 2022 CHSAS 本站支持IPV6访问"
   },
   "excerpt": "",
   "headers": [],
@@ -47,4 +47,17 @@ export const data = {
     ]
   },
   "filePathRelative": "README.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }
